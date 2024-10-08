@@ -28,61 +28,6 @@ _Jekflix_ comes with features to help you create/edit/share content and provide 
 
 ## Live Search
 
-Located in the top right corner of the template, the search component looks for post titles, categories and tags. It's a simple search for static websites.
-
-![Search Box Screenshot](https://res.cloudinary.com/dm7h7e8xj/image/upload/v1566426001/search-screenshot_sc5edu.jpg)
-
-## Estimated Reading Time
-
-Every post shows an estimated reading time above its title, the minutes are calculated based on an average reader speed.
-
-![Estimated Reading Time Screenshot](https://res.cloudinary.com/dm7h7e8xj/image/upload/v1566426097/minutes-to-read-screenshot_akvu69.jpg)
-
-## Reading Progress Bar
-
-*(Optional)*
-
-It also shows a reading progress bar based on the reading time and the scroll position in the page.
-
-![Reading Progress Bar Screenshot](https://res.cloudinary.com/dm7h7e8xj/image/upload/v1566425470/progress-bar-screenshot_gem7xb.jpg)
-
-You can show/hide the time bar, see the [docs](settings.md#show_time_bar).
-
-## "New Post" tag
-
-For posts released up to 7 days before the current date, a tag where reads "New Post" is attached to them in the home page.
-
-![New Post Tag Screenshot](https://res.cloudinary.com/dm7h7e8xj/image/upload/v1566425920/new-post-tag-screenshot_nyuycr.jpg)
-
-## Load images on demand
-
-To improve performance in the home page, only the posts above the fold are loaded initially. The next posts are loaded when scrolling down as needed.
-
-![Loading Screenshot](https://res.cloudinary.com/dm7h7e8xj/image/upload/v1566426573/loading-screenshot_akchmx.jpg)
-
-## Push Menu
-
-The template menu is hidden by default and pushes the content to the right when open.
-
-![Menu Screenshot](https://res.cloudinary.com/dm7h7e8xj/image/upload/v1566426941/menu-screenshot_qsoz1z.jpg)
-
-## SVG icons
-
-All icons used in the template are SVGs, providing a nice look for every resolution.
-
-![Template Icons](https://res.cloudinary.com/dm7h7e8xj/image/upload/v1566427250/icons-screenshot_uhk80e.jpg)
-
-## Shell script to create posts
-
-A script named [initpost.sh](https://github.com/thiagorossener/jekflix-template/blob/master/initpost.sh) is provided to make it easier to create posts by command line.
-
-In the project directory, just run:
-
-```
-$ ./initpost.sh -c "New post title"
-```
-
-## Tags page
 
 All tags are gathered in a single page where visitors can find the blog posts separate by its tags.
 
