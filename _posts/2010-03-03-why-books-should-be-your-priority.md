@@ -4,8 +4,8 @@ layout: post
 title: week 1
 subtitle: week 1 notebook
 description: notebook of week 1
-image: /assets/img/weixin1.gif
-optimized_image: 
+image: /assets/img/weixin1.jpg
+optimized_image: /assets/img/weixin1.jpg
 category: life
 tags:
   - note
