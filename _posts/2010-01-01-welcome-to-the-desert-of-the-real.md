@@ -1,29 +1,25 @@
 ---
-date: 2019-05-16 23:48:05
+date: 2024-09-16 23:48:05
 layout: post
-title: Welcome to the desert of the real
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+title: week 1
+subtitle: 'first week not fo team 4.'
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+ this is the first week's note of team 4
 image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
 optimized_image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
 category: blog
 tags:
-  - welcome
+  - first week 
   - blog
-author: mranderson
+author: team 4
 paginate: true
 ---
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+In the first week, we meet the teacher in person and confirmed with professor ZhengTing the composition of our group and the general research direction we wanted to pursue. We also set the date and location for our next meeting and prepared for our group members to discuss on their own.
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
-
-## Inline HTML elements
+## Inline HIML elements
 
 HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
 

@@ -1,11 +1,10 @@
 # Site Settings
 name: team 4
 title: team 4 |  blog 
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+description: team
 tags:
   - blog
-  - template
+  - template  
   - jekyll
   - theme
   - netlify
@@ -19,7 +18,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: cxr125002@dlmu.edu.cn
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
