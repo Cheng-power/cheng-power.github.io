@@ -1,5 +1,5 @@
 ---
-date: 2018-11-22 12:26:40
+date: 2024-09-22 12:26:40
 layout: post
 title: week 1
 subtitle: week 1 notebook
