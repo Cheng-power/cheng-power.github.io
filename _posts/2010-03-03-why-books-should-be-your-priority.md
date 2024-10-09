@@ -3,14 +3,13 @@ date: 2024-09-22 12:26:40
 layout: post
 title: week 1
 subtitle: week 1 notebook
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: "C:\Users\cheng\Desktop\微信图片_20241009172637.jpg"
+description: notebook of week 1
+image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
 category: life
 tags:
-  - books
-  - read
-author: mranderson
+  - note
+author: team 4
 paginate: true
 ---
 
