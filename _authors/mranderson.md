@@ -1,7 +1,7 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: mranderson
+name: team 4
 display_name: Mr. Anderson
 position: The One
 bio: Bulletproof hacker passionate about leather clothes.
