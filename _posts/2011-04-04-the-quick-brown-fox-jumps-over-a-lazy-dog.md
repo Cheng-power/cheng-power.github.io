@@ -4,9 +4,8 @@ layout: post
 title: week 2
 subtitle: week 2's notebook of team 4
 description: 
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1506079212/jekflix-capa_vfhuzh.png
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1506079212/jekflix-capa_vfhuzh.png
-category: css
+image: /assets/img/weixin3.jpg
+optimized_image: /assets/img/weixin3.jpg
 tags:
   - note
 author: team 4
