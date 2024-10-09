@@ -1,10 +1,10 @@
 ---
 date: 2024-09-16 23:48:05
 layout: post
-title: week 1
-subtitle: 'first week not fo team 4.'
+title: team 4 weeknote
+subtitle: 'weeknote of team 4.'
 description: >-
- this is the first week's note of team 4
+ this is the weeknote of team 4
 image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
 optimized_image: >-
